@@ -141,16 +141,19 @@ a  {
    text-decoration: none;
    justify-content: center;
    margin: 0 0.5rem;
+   font-size: 15px;
 }
 
 .rodape__texto {
     text-align: center;
+    font-size: 12px;
   
    
 }
 
 p {
     margin: 1em 0 3em 1em;
+    font-size: 10px;
 }
 
 .lista__link a:hover {
